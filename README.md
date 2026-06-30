@@ -26,8 +26,6 @@ A simple and interactive To-Do List application built with HTML, CSS, and Vanill
 
 5. **Implement task completion**
 
-
-   * Enabled users to mark tasks as complete.
    * Enabled users to mark tasks as complete by Underline the task it showa that the task is completed.
    * Used the `classList.toggle()` method to toggle a CSS class for completed tasks.
 
