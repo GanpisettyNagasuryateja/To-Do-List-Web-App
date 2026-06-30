@@ -9,6 +9,13 @@ A simple and interactive To-Do List application built with HTML, CSS, and Vanill
    * Added an **Add** button.
    * Included a list container to display tasks.
 
+# Workflow
+1. **Set up the basic HTML structure**
+
+   * Created an input field for entering tasks with Id "taskInput".
+   * Added an **Add** button with Id "addBtn".
+   * Included a list container to display tasks with Id "taskList".
+
 2. **Style the layout with CSS**
 
    * Applied CSS to create a clean and organized user interface.
@@ -26,7 +33,11 @@ A simple and interactive To-Do List application built with HTML, CSS, and Vanill
 
 5. **Implement task completion**
 
+<<<<<<< HEAD
    * Enabled users to mark tasks as complete.
+=======
+   * Enabled users to mark tasks as complete by Underline the task it showa that the task is completed.
+>>>>>>> a961cdd02d15424f8714d86bfbf173289257ca32
    * Used the `classList.toggle()` method to toggle a CSS class for completed tasks.
 
 6. **Add task removal functionality**
@@ -44,3 +55,19 @@ A simple and interactive To-Do List application built with HTML, CSS, and Vanill
 
    * Ensured all changes are reflected immediately.
    * Performed all updates dynamically using DOM manipulation without requiring a page reload.
+<<<<<<< HEAD
+=======
+
+**Technologies Used**
+* HTML5
+* CSS3
+* Vanilla JavaScript 
+
+**What I Learned**
+* DOM manipulation
+* Event handling using addEventListener()
+* Creating and appending HTML elements dynamically
+* Toggling CSS classes
+* Removing DOM elements
+* Building an interactive web application using Vanilla JavaScript
+>>>>>>> a961cdd02d15424f8714d86bfbf173289257ca32
